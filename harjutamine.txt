@@ -1,2 +1,3 @@
 Github on koht kus saavad õpilased ja õpetajad õppida versioonihaldust.
 mina saan siin õppida versioonihaldust.
+aastal 2007 asutasid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett Scott, Chacon githubi. github sai kättesaadavaks aastal 2008.
